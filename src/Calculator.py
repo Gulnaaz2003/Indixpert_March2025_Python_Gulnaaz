@@ -10,5 +10,5 @@ Data={
     "Divison" : Firstnumber / Secondnumber 
 }
 
-print(Data)
+print(Data) 
 
